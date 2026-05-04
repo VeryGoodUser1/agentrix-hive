@@ -1,0 +1,5 @@
+{
+  "name": "Web Design Agent",
+  "version": "1.0.0",
+  "description": "A web design agent that generates full websites using React/Next.js + Tailwind CSS, builds and starts a dev server so users can visit the site in their browser, and can research current design trends for inspiration."
+}
