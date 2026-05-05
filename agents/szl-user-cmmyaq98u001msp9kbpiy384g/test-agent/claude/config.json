@@ -1,0 +1,7 @@
+{
+  "maxTurns": 10,
+  "systemPrompt": {
+    "path": "system_prompt.md",
+    "mode": "append"
+  }
+}
