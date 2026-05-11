@@ -1,0 +1,5 @@
+{
+  "name": "Generative Art Studio",
+  "version": "1.0.0",
+  "description": "Creates beautiful algorithmic generative art using p5.js with seeded randomness, interactive parameter controls, and Anthropic branding. Turn any creative idea into living algorithms."
+}

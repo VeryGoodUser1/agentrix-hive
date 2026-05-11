@@ -1,0 +1,8 @@
+{
+  "name": "algorithmic-art",
+  "description": "Algorithmic art creation using p5.js with seeded randomness and interactive parameter exploration. Sourced from Agentrix Hive.",
+  "version": "1.0.0",
+  "author": {
+    "name": "verygooduser1"
+  }
+}
